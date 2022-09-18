@@ -1,0 +1,28 @@
+[
+    {
+        "titulo": "Corre",
+        "urlImg": "./img/corre.jfif",
+        "descripcion": "Lorem ipsum dolor sit amet consectetur adipisicing elit. Corporis beatae itaque, rerum expedita enim, asperiores facere repellat excepturi dolorem perspiciatis omnis, quibusdam iste? Suscipit, eius consectetur soluta praesentium aspernatur aliquid natus fugit laborum nobis sapiente laboriosam voluptatem sit maiores libero rerum, accusantium facilis iure, ipsum amet quasi quo. Quos, at!"
+    },
+    {
+        "titulo": "1984",
+        "urlImg": "./img/1984.jfif",
+        "descripcion": "Lorem ipsum dolor sit amet consectetur adipisicing elit. Corporis beatae itaque, rerum expedita enim, asperiores facere repellat excepturi dolorem perspiciatis omnis, quibusdam iste? Suscipit, eius consectetur soluta praesentium aspernatur aliquid natus fugit laborum nobis sapiente laboriosam voluptatem sit maiores libero rerum, accusantium facilis iure, ipsum amet quasi quo. Quos, at!"
+    },
+    {
+        "titulo": "La ladrona de libros",
+        "urlImg": "./img/ladroan.jfif",
+        "descripcion": "Lorem ipsum dolor sit amet consectetur adipisicing elit. Corporis beatae itaque, rerum expedita enim, asperiores facere repellat excepturi dolorem perspiciatis omnis, quibusdam iste? Suscipit, eius consectetur soluta praesentium aspernatur aliquid natus fugit laborum nobis sapiente laboriosam voluptatem sit maiores libero rerum, accusantium facilis iure, ipsum amet quasi quo. Quos, at!"
+    },
+    {
+        "titulo": "El niño con pijama a rayas",
+        "urlImg": "./img/rayas.jpg",
+        "descripcion": "Lorem ipsum dolor sit amet consectetur adipisicing elit. Corporis beatae itaque, rerum expedita enim, asperiores facere repellat excepturi dolorem perspiciatis omnis, quibusdam iste? Suscipit, eius consectetur soluta praesentium aspernatur aliquid natus fugit laborum nobis sapiente laboriosam voluptatem sit maiores libero rerum, accusantium facilis iure, ipsum amet quasi quo. Quos, at!"
+    },
+    {
+        "titulo": "Un monstruo viene a verme",
+        "urlImg": "./img/monstruo.jpg",
+        "descripcion": "Lorem ipsum dolor sit amet consectetur adipisicing elit. Corporis beatae itaque, rerum expedita enim, asperiores facere repellat excepturi dolorem perspiciatis omnis, quibusdam iste? Suscipit, eius consectetur soluta praesentium aspernatur aliquid natus fugit laborum nobis sapiente laboriosam voluptatem sit maiores libero rerum, accusantium facilis iure, ipsum amet quasi quo. Quos, at!"
+    }
+    
+] 

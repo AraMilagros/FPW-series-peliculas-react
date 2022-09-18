@@ -1,0 +1,34 @@
+.header{
+    background-image: url('/public/img/ticket.jpg');
+    /* background: #fa212a; */
+    height: 10vh;
+    object-fit:initial;
+    opacity: .75;
+
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+}
+
+.header a{
+    text-decoration: none;
+    font-size: 26px;
+    color: #fbfaf6;
+    padding-left: 20px;
+}
+
+.header .iconos{
+    color: #fbfaf6;
+    padding-right: 20px;    
+}
+
+ion-icon{
+    font-size: 25px;
+    padding-left: 20px;
+    cursor: pointer;
+    transition: .5s all;
+}
+
+ion-icon:hover{
+    color: red;
+}

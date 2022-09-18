@@ -1,0 +1,42 @@
+.header .imgHeader{
+    width: 100%;
+    min-height: 90rem;
+    object-fit: cover;
+    position: relative;
+}
+
+.texto{
+    position: absolute;
+    width: auto;
+    height: auto;
+    top: 0;
+
+    margin: 30% 0 30% 10%;
+
+    display: flex;
+    flex-direction: column;
+}
+
+.texto label{
+    font-size: 30px;
+    color: white;
+}
+
+.texto a{
+    text-decoration: none;
+    color: #fbfaf6;
+
+    border: 2px solid #fbfaf6;
+    padding: 10px;
+    border-radius: 20px;
+    text-align: center;
+    width: 50%;
+    margin-top: 20px;
+    transition: .5s all;
+}
+
+.texto a:hover{
+    background: #fa212a;
+    border: none;
+}
+
